@@ -12,8 +12,8 @@ arch=('any')
 url="https://git.mobintestserver.ir/Dinit_on_Devuan/dinitscripts"
 _base_url="https://git.mobintestserver.ir/attachments"
 license=('GPLv3')
-source=(${_base_url}/363f0284-ac75-47a5-8cf9-3e1d4f6b62c7)
-sha256sums=('5245a159cc4684200e2f38b6b59089494e3d3af68f18b302ff77342a790ea57e')
+source=(${_base_url}/2684d0cb-52b1-4d28-8aea-bd27f39e75f2)
+sha256sums=('a0c8a3dba48769ea58889408a79c491077614baac4c34e0eaa906166385f15d5')
 
 package() {
 	cd "$pkgdir" && mkdir etc/
